@@ -178,6 +178,13 @@ have been rewritten, the rest of the system remains unchanged.*
 
 [<img src="https://raw.github.com/ics-software-engineering/play-example-form/master/doc/play-example-form-screencast.png" width="400">](http://www.youtube.com/watch?v=247H9NVpMME)
 
+Assumptions
+-------------------
+1- many students can have none to may hobbies and in commmon.
+Many students can have 0-many majors
+Each student can have only one GPA
+Each student can only have one Level.
+
     
 Acknowledgements
 ----------------
